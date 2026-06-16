@@ -1,6 +1,8 @@
 # CodingTestingLoop
 This is the official implementation of Coding-Testing Loop for repository-level code generation from scratch.
 
+Authors: Zhaoxi Zhang, Aidi Lin, Junhan Gong
+
 # Dataset
 This code runs on [RepoZero](https://github.com/JesseZZZZZ/RepoZero), you can download the data from the original implementation.
 
